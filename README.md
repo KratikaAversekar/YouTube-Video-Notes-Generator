@@ -3,7 +3,7 @@ A Python-based application that converts YouTube videos into structured notes. I
 
 Features
 
-YouTube Audio Extraction: Downloads audio from YouTube videos.
+YouTube Audio Extraction: Downloads audio from YouTube videos.<br>
 Speech-to-Text: Uses OpenAI Whisper to convert speech into English text.
 Notes Generation: Organizes the extracted text into summaries and key points.
 Multilingual Support: Provides options to translate notes into Hindi and Kannada.
