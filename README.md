@@ -32,7 +32,7 @@ ReportLab<br>
 ## Application Screenshots
 
 Home Page<br>
-<img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" width="200" />
+<img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" width="200"/>
 
 
 
@@ -50,7 +50,7 @@ Hinidi Notes<br>
 
 
 PDF Output
-<img width="976" height="847" alt="downloaded_notes" src="https://github.com/user-attachments/assets/f8b7c7b8-c288-4351-a8f4-38a59a55bd94" width="400" />
+<img width="976" height="847" alt="downloaded_notes" src="https://github.com/user-attachments/assets/f8b7c7b8-c288-4351-a8f4-38a59a55bd94" width="200"/>
 
 
 
