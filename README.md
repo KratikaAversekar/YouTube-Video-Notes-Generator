@@ -32,19 +32,19 @@ ReportLab<br>
 ## Application Screenshots
 
 Home Page<br>
-<img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" width="400" />
+<img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" width="200" />
 
 
 
 
 English Notes<br>
-<img width="995" height="853" alt="english_notes" src="https://github.com/user-attachments/assets/83e442ec-7d21-4bdb-b2ce-0b05c9508195" width="400"/>
+<img width="995" height="853" alt="english_notes" src="https://github.com/user-attachments/assets/83e442ec-7d21-4bdb-b2ce-0b05c9508195" width="200"/>
 
 Kannada Notes<br>
-<img width="992" height="855" alt="kannada_notes" src="https://github.com/user-attachments/assets/a86f32e8-6608-4de7-ba4b-6ef543e05645" width="400"/>
+<img width="992" height="855" alt="kannada_notes" src="https://github.com/user-attachments/assets/a86f32e8-6608-4de7-ba4b-6ef543e05645" width="200"/>
 
 Hinidi Notes<br>
-<img width="959" height="852" alt="hinidi_notes" src="https://github.com/user-attachments/assets/fd869b23-05ac-4923-923e-df6f0b4bc87e" width="400"/>
+<img width="959" height="852" alt="hinidi_notes" src="https://github.com/user-attachments/assets/fd869b23-05ac-4923-923e-df6f0b4bc87e" width="200"/>
 
 
 
