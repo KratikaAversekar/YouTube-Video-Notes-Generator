@@ -10,7 +10,7 @@ Multilingual Support: Provides options to translate notes into Hindi and Kannada
 PDF Download: Allows users to download generated notes as PDF files.<br>
 Interactive Interface: Built with Streamlit for a simple and user-friendly experience.<br>
 
-Technologies Used
+## Technologies Used
 
 Python<br>
 Streamlit<br>
@@ -20,7 +20,7 @@ FFmpeg<br>
 Deep Translator<br>
 ReportLab<br>
 
-How It Works
+## How It Works
 
 1. The user enters a YouTube video URL.<br>
 2. The application extracts the video's audio using yt-dlp and FFmpeg.<br>
@@ -29,7 +29,7 @@ How It Works
 5. Notes can be translated into Hindi and Kannada.<br>
 6. Users can view and download the notes in PDF format.<br>
 
-Application Screenshots
+## Application Screenshots
 
 Home Page<br>
 <img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" />
@@ -54,7 +54,7 @@ PDF Output
 
 
 
-Future Improvements
+## Future Improvements
 
 Improve translation reliability.<br>
 Support additional languages.<br>
