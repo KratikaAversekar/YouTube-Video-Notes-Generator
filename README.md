@@ -19,3 +19,12 @@ yt-dlp<br>
 FFmpeg<br>
 Deep Translator<br>
 ReportLab<br>
+
+How It Works
+
+1. The user enters a YouTube video URL.<br>
+2. The application extracts the video's audio using yt-dlp and FFmpeg.<br>
+3. Whisper processes the audio and converts speech into English text.<br>
+4. The extracted text is organized into structured notes.<br>
+5. Notes can be translated into Hindi and Kannada.<br>
+6. Users can view and download the notes in PDF format.<br>
