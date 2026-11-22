@@ -33,6 +33,8 @@ Application Screenshots
 
 Home Page<br>
 ![Home Page](screenshots\home.png)
+<img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" />
+
 
 
 
