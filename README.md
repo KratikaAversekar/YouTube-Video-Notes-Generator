@@ -32,7 +32,7 @@ How It Works
 Application Screenshots
 
 Home Page<br>
-![Home Page]("C:\Users\HP\OneDrive\Desktop\NoteWise\screenshots\home.png")
+![Home Page](screenshots\home.png)
 
 
 
