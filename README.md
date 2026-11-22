@@ -32,18 +32,25 @@ How It Works
 Application Screenshots
 
 Home Page<br>
-![Home Page](screenshots\home.png)
 <img width="1012" height="522" alt="home" src="https://github.com/user-attachments/assets/1eb33f02-f98a-49d3-9ceb-6984e8d1aff2" />
 
 
 
 
 English Notes<br>
-<"C:\Users\HP\OneDrive\Desktop\NoteWise\screenshots\english_notes.png">
+<img width="995" height="853" alt="english_notes" src="https://github.com/user-attachments/assets/83e442ec-7d21-4bdb-b2ce-0b05c9508195" />
+
+Kannada Notes<br>
+<img width="992" height="855" alt="kannada_notes" src="https://github.com/user-attachments/assets/a86f32e8-6608-4de7-ba4b-6ef543e05645" />
+
+Hinidi Notes<br>
+<img width="959" height="852" alt="hinidi_notes" src="https://github.com/user-attachments/assets/fd869b23-05ac-4923-923e-df6f0b4bc87e" />
+
 
 
 
 PDF Output
+<img width="976" height="847" alt="downloaded_notes" src="https://github.com/user-attachments/assets/f8b7c7b8-c288-4351-a8f4-38a59a55bd94" />
 
 
 
