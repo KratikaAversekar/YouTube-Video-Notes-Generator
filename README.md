@@ -28,3 +28,26 @@ How It Works
 4. The extracted text is organized into structured notes.<br>
 5. Notes can be translated into Hindi and Kannada.<br>
 6. Users can view and download the notes in PDF format.<br>
+
+Application Screenshots
+
+Home Page<br>
+<"C:\Users\HP\OneDrive\Desktop\NoteWise\screenshots\home.png">
+
+
+
+English Notes<br>
+<"C:\Users\HP\OneDrive\Desktop\NoteWise\screenshots\english_notes.png">
+
+
+
+PDF Output
+
+
+
+Future Improvements
+
+Improve translation reliability.<br>
+Support additional languages.<br>
+Enhance note summarization.<br>
+Improve the user interface.<br>
