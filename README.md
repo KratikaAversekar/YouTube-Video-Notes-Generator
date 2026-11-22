@@ -1,7 +1,7 @@
 # YouTube-Video-Notes-Generator
 A Python-based application that converts YouTube videos into structured notes. It uses Whisper AI to process audio and generate English notes, with options for Hindi and Kannada translation and PDF downloads.
 
-Features
+## Features
 
 YouTube Audio Extraction: Downloads audio from YouTube videos.<br>
 Speech-to-Text: Uses OpenAI Whisper to convert speech into English text.<br>
